@@ -83,10 +83,20 @@
 
 ```json
 {
-  "key": "unique_key",       // 唯一标识符（英文字母，不可重复）
-  "name": "站点名称",         // 显示在界面的名称
-  "api": "https://...",      // Maccms V10/JSON 接口地址
-  "active": true             // 是否启用 (true/false)
+  "sites": [
+    {
+      "key": "unique_key1",       // 唯一标识符（英文字母，不可重复）
+      "name": "站点名称1",         // 显示在界面的名称
+      "api": "https://...",      // Maccms V10/JSON 接口地址
+      "active": true             // 是否启用 (true/false)
+    },
+    {
+      "key": "unique_key2",       // 唯一标识符（英文字母，不可重复）
+      "name": "站点名称2",         // 显示在界面的名称
+      "api": "https://...",      // Maccms V10/JSON 接口地址
+      "active": true             // 是否启用 (true/false)
+    }
+  ]
 }
 ```
 4.  保存文件并**重启服务**。
