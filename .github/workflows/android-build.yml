@@ -9,11 +9,11 @@ on:
       server_url:
         description: 'Server URL (e.g. https://your-site.com)'
         required: true
-        default: 'https://ednovas.video'
+        default: 'https://huangvoid.cpolar.cn'
       app_name:
         description: 'App Name'
         required: true
-        default: 'E视界'
+        default: '恒TV'
       version_tag:
         description: 'Version Tag (e.g. v1.0.0)'
         required: true
