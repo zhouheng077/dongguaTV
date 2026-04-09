@@ -1,0 +1,184 @@
+{
+  "sites": [
+    {
+      "key": "ffzy",
+      "name": "非凡影视",
+      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "hongniu",
+      "name": "红牛资源",
+      "api": "http://hongniuzy2.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "lziapi",
+      "name": "量子资源",
+      "api": "http://cj.lziapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wolong",
+      "name": "卧龙资源",
+      "api": "http://collect.wolongzyw.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "slin",
+      "name": "森林资源",
+      "api": "http://slapibf.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "shandian",
+      "name": "闪电资源",
+      "api": "http://sdzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "jinying",
+      "name": "金鹰资源",
+      "api": "https://jyzyapi.com/provide/vod",
+      "active": true
+    },
+    {
+      "key": "guangsu",
+      "name": "光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "uku",
+      "name": "U酷资源",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "yinghua",
+      "name": "樱花资源",
+      "api": "http://m3u8.apiyhzy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "baidu",
+      "name": "百度资源",
+      "api": "http://api.apibdzy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "360zy",
+      "name": "360资源",
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "niuniu",
+      "name": "牛牛资源",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "yaya",
+      "name": "丫丫资源",
+      "api": "https://cj.yayazy.net/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "hoahua",
+      "name": "豪华资源",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "jisu",
+      "name": "极速资源",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "sony",
+      "name": "sony资源",
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "baofeng",
+      "name": "暴风资源",
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "huya",
+      "name": "虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "piaoling",
+      "name": "飘零资源",
+      "api": "https://p2100.net/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "wujin",
+      "name": "无尽资源",
+      "api": "https://api.wujinapi.com/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "subo",
+      "name": "速博资源",
+      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "modu",
+      "name": "魔都资源",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "zuida",
+      "name": "最大资源",
+      "api": "https://zuidazy.me/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "huohu",
+      "name": "火狐资源",
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "xinlang",
+      "name": "新浪资源",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "maoyan",
+      "name": "猫眼资源",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "seacms",
+      "name": "花旗资源",
+      "api": "https://www.seacms.org/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "danaizi",
+      "name": "dnz资源",
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "maotai",
+      "name": "茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "active": true
+    }
+  ]
+}
