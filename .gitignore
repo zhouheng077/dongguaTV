@@ -35,3 +35,9 @@ android-tv/build_*.txt
 *.apk
 
 
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
